@@ -25,3 +25,6 @@ tmp/
 *.tmp
 nodeProj.cards.json
 nodeProj.users.json
+
+# documents
+postmantestscenrios.pdf
